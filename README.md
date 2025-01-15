@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 - 💻 **Tech Stack**: [List the programming languages, frameworks, and tools you use.]
 - 🌱 **Currently Learning**: [forntend of the web development]
 - 🎯 **Goals for 2025**: [to become the full stack developer.]
-- 🎨 **Hobbies**: [ "Digital art,reading the book, gaming, and hiking."]
+- 🎨 **Hobbies**: [ "Digital art,reading books, playing video games , and travelling."]
 
 ## 🌟 Featured Projects
 - [Project Name 1](Link)  
