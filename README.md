@@ -19,9 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 
 ## 💬 Let's Connect!
-- 🌐 [Your Portfolio](Link)
-- 💼 [LinkedIn](Link)
-- 🐦 [Twitter](Link)
+
 - 📫 Email: [chagankekra13@gmail.com]  
 
 ---
