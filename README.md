@@ -1,4 +1,4 @@
-# Hi there, I'm [Vishal Honde]! 👋
+# Hi there, I'm Vishal Honde 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building meaningful projects.
 
