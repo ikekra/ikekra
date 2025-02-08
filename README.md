@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ## 🚀 About Me
 - 🎓 **Background**: A engineering student studdyong in third year of the bharati vidyapeeth's colllege of enginneering
 - 💻 **Tech Stack**: begineer in C,C++,C#,Java,JavaScript,react.js,
-- 🌱 **Currently Learning**: forntend of the web development
+- 🌱 **Currently Learning**: backend of the web development
 - 🎯 **Goals for 2025**: to become the full stack developer.
 - 🎨 **Hobbies**: Digital art,reading books, playing video games , and travelling.
 
